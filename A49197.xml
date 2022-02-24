@@ -1,0 +1,177 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Lord Chancellor of Scotland his speech to the King in Newcastle, July, 1646 As it was sent up by a faithfull hand from thence. Published according to order.</title>
+            <author>Loudoun, John Campbell, Earl of, 1598-1663.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A49197</idno>
+            <idno type="STC">Wing L3091</idno>
+            <idno type="STC">ESTC R222257</idno>
+            <idno type="EEBO-CITATION">99833445</idno>
+            <idno type="PROQUEST">99833445</idno>
+            <idno type="VID">37921</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A49197)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 37921)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2174:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Lord Chancellor of Scotland his speech to the King in Newcastle, July, 1646 As it was sent up by a faithfull hand from thence. Published according to order.</title>
+                  <author>Loudoun, John Campbell, Earl of, 1598-1663.</author>
+               </titleStmt>
+               <extent>[4], 4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Matthew Simmons for Rich. Tomlines at the Sunne in Pie-Corner,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The Lord Chancellor of Scotland = John Campbell, Earl of Loudoun.</note>
+                  <note>This edition has "Rich. Tomlines" in imprint.</note>
+                  <note>Copy has some print fade and print show-through.</note>
+                  <note>Reproduction of the original in Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Early works to 1800.</term>
+               <term>Scotland --  History --  Charles I, 1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:37921:1"/>
+            <!-- PDF PAGE 75 -->
+            <pb facs="tcp:37921:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 75 -->
+            <p>THE LORD CHANCELLOR OF SCOTLAND HIS SPEECH To the King in NEWCASTLE, JVLY, 1646. As it was ſent up by a Faithfull Hand from thence.</p>
+            <p>
+               <hi>Publiſhed according to Order.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Mathew Simmons</hi> for <hi>Rich. Tomlines</hi> at the <hi>S<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nne</hi> in <hi>Pie-Corner.</hi> 1646.</p>
+         </div>
+         <div type="introduction">
+            <pb facs="tcp:37921:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 76 -->
+            <p>
+               <gap reason="missing" extent="1 page">
+                  <desc>〈1 page missing〉</desc>
+               </gap>
+               <gap reason="illegible: missing" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ter of <hi>13<hi rend="sup">th</hi>.</hi> inſtant, from <hi>Newcaſtle,</hi> where ſeverall Coppies had beene given out (as was ſuppoſed) by the Lord Chancellors conſent and direction; and a tranſcript thereof falling into my hands, I thought it ſo worthy of publik view, that although the <hi>Scottiſh</hi> Com<g ref="char:EOLhyphen"/>miſsioners had omitted to Print it; yet I have done both them and <hi>England</hi> that right as to commit it to the Preſſe: I ſhall for preſent ſay no more on't but this, <hi>Well weigh all things in it.</hi>
+            </p>
+            <closer>
+               <dateline>
+                  <date>
+                     <hi>Auguſt 29. 1646.</hi>
+                  </date>
+               </dateline>
+               <signed>
+                  <hi>Thine</hi> Ingenuouſly, I. I.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="speech">
+            <pb n="1" facs="tcp:37921:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 76 -->
+            <head>THE LORD CHANCELLOR OF SCOTLAND his <hi>SPEECH,</hi> To the King in <hi>Newcaſtle,</hi> July 1646. As it was ſent up by a faithfull Hand from thence.</head>
+            <p>
+               <seg rend="decorInit">Y</seg>Our Majeſty was pleaſed on Monday laſt to eall the Lords of Your Councell and Committee, to acquaint them with the Propoſitions, and told them before you would deliver Your Anſwer, You would make the ſame known to them: The time aſſigned to the Commiſſioners ſtay is ſo ſhort, and the conſe<g ref="char:EOLhyphen"/>quence of your Majeſties Anſwer of ſo great impor<g ref="char:EOLhyphen"/>tance, either for the preſervation or ruine of Your Crowne, and Kingdomes, as we could not be anſwera<g ref="char:EOLhyphen"/>ble to God, nor to that Truſt repoſed in us, unleſſe we repreſent to your Majeſty how neceſſary it is that your Majeſty aſſent to the Propoſitions as the condi<g ref="char:EOLhyphen"/>tion of affaires now ſtand in ſo great extremity, and that the danger and loſſe of your refuſall will be re<g ref="char:EOLhyphen"/>medileſſe, and bring on a ſuddaine ruine and de<g ref="char:EOLhyphen"/>ſtruction.</p>
+            <pb n="2" facs="tcp:37921:3" rendition="simple:additions"/>
+            <!-- PDF PAGE 77 -->
+            <p>I ſhall begin firſt with the laſt, which is the Danger, and ſhall next ſpeak a word of the Remedy.</p>
+            <p>The differences betwixt your Majeſty and your <hi>Parliament</hi> (which no man knoweth better then your Majeſties ſelfe,) are growne to ſuch a height, that af<g ref="char:EOLhyphen"/>ter many bloudy battels, the <hi>Parliament</hi> having your Majeſty, all the Forts, Garriſons, and ſtrong holds in their hands, having your Majeſties Revenue, Exciſe, Aſſeſſements, Sequeſtrations, and the Authority to raiſe all the men and money in the Kingdome, and having, after many victories and great ſucceſſes, a ſtrong Army on Foot, are now in ſuch a poſture for ſtrength and power: they are in a capacity to doe what they will, both in Church and State. And ſome are ſo afraid, and others ſo unwilling to ſubmit them<g ref="char:EOLhyphen"/>ſelves to your Majeſties Government, that they de<g ref="char:EOLhyphen"/>ſire not you, nor any of your Race, longer to reigne over them: But the people are ſo wearied of the Warre, and great burthens they doe groane under, are ſo loath to have Monarchical Government deſtroyed, that they dare not attempt to caſt it totally off, till once they ſend Propoſitions of Peace to your Maje<g ref="char:EOLhyphen"/>ſty, leaſt the People (without whoſe concurrence they are not able to carry on their deſigne) ſhould fall from them; but after ſo great Warre and trouble, that they may have a perfect ſecuritie from oppoſi<g ref="char:EOLhyphen"/>tion and Arbitrary power, they have reſolved upon the Propoſitions, which are tendred to your Majeſty, as that without which the Kingdome and your peo<g ref="char:EOLhyphen"/>ple cannot be in ſafety, and that there cannot be a firme Peace upon any other tearmes.</p>
+            <p>Your Majeſties friends in the Houſes, and the Commiſſioners from <hi>Scotland,</hi> (after much wraſling)
+<pb n="3" facs="tcp:37921:3" rendition="simple:additions"/>
+               <!-- PDF PAGE 77 -->did conſent to the ſending of thoſe Propoſitions, or to be rated the hinderers of Peace, or otherwayes to ſend no Propoſitions at all.</p>
+            <p>And now Sir, if your Majeſty (as God forbid) ſhall refuſe to aſſent to the Propoſitions, You will loſe all Your friends in the Houſes, loſe the City, and all the Countrey. And all <hi>England</hi> will joyne againſt you as one man; they will proceſſe and de<g ref="char:EOLhyphen"/>poſe you, and ſet up another Government; they will charge us to deliver your Majeſty to them, and to render their Garriſons, and remove our Armies out of <hi>England,</hi> and upon your Majeſties refuſall of the Propoſitions, both Kingdomes will be conſtrained for their mutuall ſafety, to agree and ſettle Religi<g ref="char:EOLhyphen"/>on and peace without You, which (to our unſpeakable griefe) will ruine your Majeſty and your Poſteritie, and if your Majeſtie refuſe our faithfull advice (who deſire nothing on Earth more then the preſervation of your Majeſties Royall Throne.) And if your Ma<g ref="char:EOLhyphen"/>jeſty loſe <hi>England</hi> by your wilfulneſſe, you will not be permitted to come and reigne in <hi>Scotland.</hi>
+            </p>
+            <p>Sir, we have laid our hands upon our hearts, wee have asked Counſell and direction from God, and have had our moſt ſerious thoughts upon the Reme<g ref="char:EOLhyphen"/>die, but can finde no other to ſave your Crowne and Kingdomes, then your Majeſties aſſenting to the Propoſitions, and dares not ſay but they are higher in ſome things, (if it were in our power and option to remedie) then we approved of, but when we ſee no other meanes for curing the diſtempers of the Kingdomes, and cloſing the breach between your Ma<g ref="char:EOLhyphen"/>jeſtie and your <hi>Parliament,</hi> Our moſt humble and ſafe
+<pb n="4" facs="tcp:37921:4" rendition="simple:additions"/>
+               <!-- PDF PAGE 78 -->adviſe is, your Majeſty will be graciouſly, pleaſed to aſſent to them as the onely way to eſtabliſh your Throne; Becauſe your Majeſtie ſhall be thereby re<g ref="char:EOLhyphen"/>ceived againe in your <hi>Parliament,</hi> with the applauſe and acclamations of your people, by your Royall preſence all friends will be ſtrengthned, and all Ene<g ref="char:EOLhyphen"/>mies, (who feare nothing ſo much as the granting the Propoſitions) will be weakned; your Majeſtie will have a fit opportunitie hereafter, to offer ſuch Propoſitions as You and your <hi>Parliament</hi> in wiſdome ſhall think fit, for your Crown and Kingdome, the Ar<g ref="char:EOLhyphen"/>mies will be disbanded, and your people finding the ſweet fruit of a peaceable Government: you will gaine their hearts and affections, and that will be your Majeſties ſtrength and glory, and will recover all that you have loſt in this time of tempeſt and of trouble.</p>
+            <p>And if it pleaſe God to incline your Royall heart to this adviſe of your humble, and faithfull ſervants, who next to the honour and ſervice of God, eſteeme nothing more pretious, then the ſafetie of your Per<g ref="char:EOLhyphen"/>ſon, and Crowne: our actions ſhall make it appeare, that we eſteeme no hazard too great for your Maje<g ref="char:EOLhyphen"/>ſties ſafety, and that we are willing to ſacrifice our Lives and fortunes for eſtabliſhing your Throne and juſt Right.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:37921:4"/>
+            <!-- PDF PAGE 78 -->
+         </div>
+      </body>
+   </text>
+</TEI>
